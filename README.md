@@ -8,7 +8,7 @@ Time spent: **4** hours spent in total
 
 Here's a walkthrough of the game:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/GBkuHyt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
